@@ -1,0 +1,48 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    background: lightgrey;
+}
+
+header {
+    background: white;
+    padding: 1px
+}
+
+.wrapper {
+    background: white;
+    margin: auto;
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.photo-date {
+    text-align: right;
+    color: lightgray;
+    font-size: 15px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+
+}
+
+.photo-text {
+    text-align: left;
+    padding: 10px
+}
+
+.photo-name {
+    font-size: 19px;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+
+}
+
+.wrapperone {
+    display: inline;
+    margin-top: 15px;
+
+}
